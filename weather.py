@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""A beautiful terminal weather app.
+"""A simple terminal weather app.
 
 Shows current weather for a US zip code. On first run it asks for your zip,
 saves it to ~/.config/weather/config.json, and reuses it every time after.

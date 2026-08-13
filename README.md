@@ -1,6 +1,6 @@
 # weather
 
-A beautiful terminal weather app. It shows the current weather for a US zip code
+A simple terminal weather app. It shows the current weather for a US zip code
 as a colorful ASCII card, right in your terminal.
 
 No API keys and no third-party packages required — just Python 3 and its standard
